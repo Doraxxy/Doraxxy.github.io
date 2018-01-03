@@ -4,7 +4,7 @@ title:  "关于站长"
 date:   2018-01-03 15:31:50 +0800
 categories:
 image:
-  teaser: bio.jpg
+  teaser: aboutme.jpg
 ---
 # 关于站长
 - 站长来自中山大学南方学院
