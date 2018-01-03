@@ -14,3 +14,8 @@
   url: /posts/ 
   excerpt: "文章" 
   image: something.gif
+  
+  title: 联系我
+  url： /contact/
+  excerpt: "本人无法联系，有问题请尝试自行解决"
+  image: callme.gif
