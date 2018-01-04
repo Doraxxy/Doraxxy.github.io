@@ -6,7 +6,7 @@ modified:
 excerpt: "cappzang~"
 tags: []
 image: 
-  feature: webworks.j'p'g
+  feature: webworks.jpg
   teaser:
 ---
 
