@@ -1,26 +1,21 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /portfolio/ 
-  excerpt: "网页设计的个人作品集"
+  url: /portfolio/
+  excerpt: 网页设计个人作品集
   image: web.gif
-
+  
 - title: 信息可视化作品集
-  url: /infovis/ 
-  excerpt: "信息可视化的个人作品集"
+  url: /infovis/
+  excerpt: 信息可视化作品集
   image: mansage.gif
   
-- title: 网页学习心得
-  url: /posts/rwd/ 
-  excerpt: "文章" 
+- title: 网页笔记
+  url: /posts/rwd/
+  excerpt: 网页制作学习心得
   image: something.gif
   
-  - title: 信息可视化学习心得
-  url: /posts/infovis/ 
-  excerpt: "文章" 
-  image: something.gif
-  
-- title: 联系我
-  url: /contact/ 
-  excerpt: "本人无法联系，请尝试自行解决问题" 
-  image: callme.gif
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "信息可视化学习心得"
+  image: callme.gif   
