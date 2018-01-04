@@ -10,8 +10,13 @@
   excerpt: "信息可视化的个人作品集"
   image: mansage.gif
   
-- title: 学习心得
-  url: /posts/ 
+- title: 网页学习心得
+  url: /posts/rwd/ 
+  excerpt: "文章" 
+  image: something.gif
+  
+  - title: 信息可视化学习心得
+  url: /posts/infovis/ 
   excerpt: "文章" 
   image: something.gif
   
