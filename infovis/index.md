@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "信息可视化作品集"
-date: 2018-01-04 14:25:45-04:00
+date: 2018-1-1T14:25:45-04:00
 modified:
 excerpt: "Biong~"
 tags: []
