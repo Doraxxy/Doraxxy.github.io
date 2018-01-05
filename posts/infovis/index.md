@@ -6,7 +6,7 @@ modified:
 excerpt: "小小总结"
 tags: []
 image: 
-  feature: infovisnotes01.jpg
+  feature: infovisnotes.jpg
   teaser:
 ---
 
