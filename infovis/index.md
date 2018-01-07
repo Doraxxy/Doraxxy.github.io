@@ -6,7 +6,7 @@ modified:
 excerpt: "Biong~"
 tags: []
 image: 
-  feature: infovis.jpg
+  feature: infovis.png
   teaser:
 ---
 
